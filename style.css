@@ -1,0 +1,21 @@
+.border{
+    display: grid;
+    width: fit-content;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+section{
+    display: flex;
+    gap: 5px;
+}
+input{
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.searchas{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 5px;
+}
